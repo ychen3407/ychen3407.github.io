@@ -1,10 +1,10 @@
 ## Portfolio
-
+### Selected Projects in data science and machine learning
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Spotify East Asian Music Trend and Top Artists](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
