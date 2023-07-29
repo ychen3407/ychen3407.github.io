@@ -1,14 +1,13 @@
 title: Wenqi Chen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First-year Master's student at the University of Pennsylvania
-  Data Science Program
+  A Bachelor's degree in Statistics and Data Science from the University of Wisconsin-Madison
   <br><br>
-  Second description 
+  Currently pursuing a Master's degree in Data Science at the University of Pennsylvania
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/wenqi-chen-672201213">View My LinkedIn Profile</a> 
   
 #remote_theme: pages-themes/minimal@v0.2.0
-#plugins:
-#- jekyll-remote-theme
+plugins:
+- jekyll-remote-theme
 
