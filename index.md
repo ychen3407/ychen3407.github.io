@@ -10,9 +10,10 @@ This analysis aims to understand the trend of public tastes in music in 3 main E
 
 1. How is the popularity of artists in China, Japan, and Korea compared to each other and to the East Asia Standard?
 2. How has the trend changed over the years in these countries?
-...
+3. ...
 
-Data Source: https://www.kaggle.com/datasets/crxxom/spotify-popular-east-asian-artists-and-tracks?select=east_asia_top_tracks.csv
+Data Source: [here](https://www.kaggle.com/datasets/crxxom/spotify-popular-east-asian-artists-and-tracks?select=east_asia_top_tracks.csv)
+
 <img src="images/p1i2.png?raw=true"/>
 <img src="images/p1i1.png?raw=true"/>
 
