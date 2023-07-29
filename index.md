@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Spotify East Asian Music Trend and Top Artists](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/p1i1.jpg?raw=true"/>
+<img src="images/p1i2.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
