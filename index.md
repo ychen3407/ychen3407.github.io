@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Spotify East Asian Music Trend and Top Artists](/sample_page)
+[Analyzing East Asian Music Trend and Top Artists using Spotify API data](/sample_page)
 <img src="images/p1i1.png?raw=true"/>
+<img src="images/p1i2.png?raw=true"/>
 <img src="images/p1i2.png?raw=true"/>
 
 ---
