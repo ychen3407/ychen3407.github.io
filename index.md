@@ -8,9 +8,9 @@
 
 This notebook analyzed factors that contribute to subscription in a specific marketing campaign in a Portuguese bank institution, and I utilized a stacked model (gradient boosting, random forest, logistic regression) to predict whether a customer will subscribe to the term deposit. 
 
-<img src="images/p2i1?raw=true"/>
-<img src="images/p2i2?raw=true"/>
-<img src="images/p2i3?raw=true"/>
+<img src="images/p2i1.png?raw=true"/>
+<img src="images/p2i2.png?raw=true"/>
+<img src="images/p2i3.png?raw=true"/>
 
 
 ---
