@@ -31,4 +31,4 @@ This analysis aims to understand the trend of public tastes in music in 3 main E
 <img src="images/p1i1.png?raw=true"/>
 
 ---
-### Project 3. In Progress
+### Project 3. In Progress (Update: 08/08/2023)
