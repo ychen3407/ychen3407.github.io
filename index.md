@@ -2,7 +2,8 @@
 ### Selected Projects in Data Science and Machine Learning
 ---
 
-[Term Deposit Subscription Prediction](/pdf/Bank_Marketing.pdf)
+### Project 1. Term Deposit Subscription Prediction (Classification)
+[pdf](/pdf/Bank_Marketing.pdf) [Google Colab (working on getting it uploaded)]
 
 This notebook analyzed factors that contribute to subscription in a specific marketing campaign in a Portuguese bank institution, and I utilized a stacked model (gradient boosting, random forest, logistic regression) to predict whether a customer will subscribe to the term deposit. 
 
@@ -15,7 +16,8 @@ This notebook analyzed factors that contribute to subscription in a specific mar
 
 
 ---
-[Analyzing East Asian Music Trend and Top Artists using Spotify API data](/pdf/Spotify.pdf)
+### Project 2. Analyzing East Asian Music Trends and Top Artists (EDA)
+[pdf](/pdf/Spotify.pdf)
 
 This analysis aims to understand the trend of public tastes in music in 3 main East Asia countries: China, Korea, and Japan. Based on the given data, the following questions were studied:
 
@@ -23,10 +25,9 @@ This analysis aims to understand the trend of public tastes in music in 3 main E
 2. How has the trend changed over the years in these countries?
 ...
 
-Data Source: [here](https://www.kaggle.com/datasets/crxxom/spotify-popular-east-asian-artists-and-tracks?select=east_asia_top_tracks.csv)
-
 **Figure 1. Average Number of Followers (left); Artists Segmentation Based on Top Track and Popularity (right)**
 <img src="images/p1i2.png?raw=true"/>
+**Figure 2. Top 10 Music Genres in Different Regions (East Asia)**
 <img src="images/p1i1.png?raw=true"/>
 
 ---
