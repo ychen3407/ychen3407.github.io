@@ -3,7 +3,7 @@
 ---
 
 ### Project 1. Term Deposit Subscription Prediction (Classification)
-[pdf](/pdf/Bank_Marketing.pdf) [Google Colab (working on getting it uploaded)]
+Notebook can be found here: [pdf](/pdf/Bank_Marketing.pdf) [Google Colab] (working on getting it uploaded)
 
 This notebook analyzed factors that contribute to subscription in a specific marketing campaign in a Portuguese bank institution, and I utilized a stacked model (gradient boosting, random forest, logistic regression) to predict whether a customer will subscribe to the term deposit. 
 
@@ -17,7 +17,7 @@ This notebook analyzed factors that contribute to subscription in a specific mar
 
 ---
 ### Project 2. Analyzing East Asian Music Trends and Top Artists (EDA)
-[pdf](/pdf/Spotify.pdf)
+Notebook can be found here: [pdf](/pdf/Spotify.pdf)
 
 This analysis aims to understand the trend of public tastes in music in 3 main East Asia countries: China, Korea, and Japan. Based on the given data, the following questions were studied:
 
