@@ -31,4 +31,18 @@ This analysis aims to understand the trend of public tastes in music in 3 main E
 <img src="images/p1i1.png?raw=true"/>
 
 ---
-### Project 3. In Progress (Update: 08/08/2023)
+### Project 3. Olist Package Delivery Performance Analysis (SQL)
+analysis can be found here: [pdf](/pdf/e-commerce.pdf);
+Olist is one of the biggest e-commerce platforms in Brazil. This analysis aims to understand the delivery services provided by Olist logistic partners, evaluate their performance, and develop strategies to enhance performance and boost customer satisfaction.
+<img src="images/p3i1.png?raw=true"/>
+<img src="images/p3i2.png?raw=true"/>
+<img src="images/p3i3.png?raw=true"/>
+
+
+
+
+
+
+
+
+### Project 4. In Progress (Update: 10/02/2023)
