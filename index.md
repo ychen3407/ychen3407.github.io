@@ -2,13 +2,19 @@
 ### Selected Projects in Data Science and Machine Learning
 ### In Progress (Update: 09/02/2023)
 ---
+### Project 4. What Channels Are More Effective in Marketing Promotion: TV, Radio, or Social Media? (Excel)
+analysis report can be found here: [pdf](/pdf/Marketing_Promotion_Analysis.pdf)
 
-### Project 3. Olist Package Delivery Performance Analysis (SQL)
-analysis can be found here: [pdf](/pdf/e-commerce.pdf)
+This short analysis aims to assess the effectiveness of different marketing channels. 
+<img src="images/p4i1.png?raw=true">
+<img src="images/p4i2.png?raw=true">
 
-Olist is one of the biggest e-commerce platforms in Brazil. This analysis aims to understand the delivery services provided by Olist logistic partners, evaluate their performance, and develop strategies to enhance performance and boost customer satisfaction.
+### Project 3. Enhancing Customer Satisfaction: An Analysis of Olist's Package Delivery (SQL)
+analysis report can be found here: [pdf](/pdf/e-commerce.pdf)
+
+Olist is one of the biggest e-commerce platforms in Brazil. The primary objectives of this analysis are to understand the delivery services offered by Olist's logistics partners, assess their delivery performance, and develop strategies to improve the services and boost customer satisfaction.
+
 <img src="images/p3i1.png?raw=true"/>
-<img src="images/p3i2.png?raw=true"/>
 <img src="images/p3i3.png?raw=true"/>
 
 ---
