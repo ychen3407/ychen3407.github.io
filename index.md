@@ -32,18 +32,11 @@ This notebook analyzed factors that contribute to subscription in a specific mar
 
 
 ---
-### Project 1. Analyzing East Asian Music Trends and Top Artists (EDA)
-Notebook can be found here: [pdf](/pdf/Spotify.pdf); [Google Colab (working on it)](https://drive.google.com/file/d/1AwAqetB28I1Z3IK1GjdD08zIEwFZKYZk/view?usp=drive_link)
+### Project 1. Healthcare Insurance Cost Prediction (Regression, Python)
+Notebook can be found here: [Google Colab](https://colab.research.google.com/drive/1mlMyL0oDe3S1c9dBVnk7nyUX5Bu_Y74u?usp=sharing)
 
-This analysis aims to understand the trend of public tastes in music in 3 main East Asia countries: China, Korea, and Japan. Based on the given data, the following questions were studied:
-
-1. How is the popularity of artists in China, Japan, and Korea compared to each other and to the East Asia Standard?
-2. How has the trend changed over the years in these countries?
-...
-
-**Figure 1. Average Number of Followers (left); Artists Segmentation Based on Top Track and Popularity (right)**
-<img src="images/p1i2.png?raw=true"/>
-**Figure 2. Top 10 Music Genres in Different Regions (East Asia)**
+This notebook explores the relationship between individual insurer features and healthcare insurance costs
+<img src="images/p1i1.png?raw=true"/>
 <img src="images/p1i1.png?raw=true"/>
 
 ---
