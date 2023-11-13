@@ -15,6 +15,7 @@ analysis report can be found here: [pdf](/pdf/e-commerce.pdf)
 Olist is one of the biggest e-commerce platforms in Brazil. The primary objectives of this analysis are to understand the delivery services offered by Olist's logistics partners, assess their delivery performance, and develop strategies to improve the services and boost customer satisfaction.
 
 <img src="images/p3i1.png?raw=true"/>
+<img src="images/p3i2.png?raw=true"/>
 
 ---
 ### Project 2. Term Deposit Subscription Prediction (Classification)
