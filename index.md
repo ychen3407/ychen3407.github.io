@@ -1,6 +1,6 @@
 ## Portfolio
 ### Selected Projects in Data Science and Machine Learning
-### In Progress (Update: 09/02/2023)
+### In Progress (Update: 11/01/2023)
 ---
 ### Project 4. What Channels Are More Effective in Marketing Promotion: TV, Radio, or Social Media? (Excel)
 analysis report can be found here: [pdf](/pdf/Marketing_Promotion_Analysis.pdf)
@@ -37,6 +37,6 @@ Notebook can be found here: [Google Colab](https://colab.research.google.com/dri
 
 This notebook explores the relationship between individual insurer features and healthcare insurance costs
 <img src="images/p1i1.png?raw=true"/>
-<img src="images/p1i1.png?raw=true"/>
+<img src="images/p1i2.png?raw=true"/>
 
 ---
