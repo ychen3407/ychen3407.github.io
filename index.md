@@ -36,7 +36,7 @@ This notebook analyzed factors that contribute to subscription in a specific mar
 Notebook can be found here: [Google Colab](https://colab.research.google.com/drive/1mlMyL0oDe3S1c9dBVnk7nyUX5Bu_Y74u?usp=sharing)
 
 This notebook explores the relationship between individual insurer features and healthcare insurance costs
+
 <img src="images/p1i1.png?raw=true"/>
-<img src="images/p1i2.png?raw=true"/>
 
 ---
