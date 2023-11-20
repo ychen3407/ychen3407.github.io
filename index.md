@@ -18,17 +18,13 @@ Olist is one of the biggest e-commerce platforms in Brazil. The primary objectiv
 <img src="images/p3i2.png?raw=true"/>
 
 ---
-### Project 2. Term Deposit Subscription Prediction (Classification)
-Notebook can be found here: [pdf](/pdf/Bank_Marketing.pdf); [Google Colab (working on it)](https://drive.google.com/file/d/1GGUtD88CLZWKCBvnHCQIfBHCuTgP8zl7/view?usp=drive_link)
+### Project 2. Term Deposit Subscription Prediction (Classification, Python)
+Notebook can be found here: [Google Colab](https://colab.research.google.com/drive/1Rm4ZdnkTORK3xmYXKznV_HG9osSjBeRW?usp=sharing)
 
-This notebook analyzed factors that contribute to subscription in a specific marketing campaign in a Portuguese bank institution, and I utilized a stacked model (gradient boosting, random forest, logistic regression) to predict whether a customer will subscribe to the term deposit. 
+This notebook analyzed a direct marketing campaign of Portuguese Bank and built a classifier to predict if an individual will subscribe to a term deposit or not.
 
-**Figure 1. Distribution of continuous variables**
 <img src="images/p2i1.png?raw=true"/>
-**Figure 2. Feature Importance by different models**
 <img src="images/p2i2.png?raw=true"/>
-**Figure 3. Results**
-<img src="images/p2i3.png?raw=true"/>
 
 
 ---
