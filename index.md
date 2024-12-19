@@ -1,7 +1,17 @@
 ## Portfolio
 ### Selected Projects in Data Science and Machine Learning
-### In Progress (Update: 11/01/2023)
+### In Progress (Update: 12/18/2024)
 ---
+### Project 5. Data Pipeline for Tutoring Session Attendance
+The pipeline specification document can be found here: [docs](https://docs.google.com/document/d/1E1zr9PGkFLiywgxOcovQ3zZa5TZJaMJaJDpObtWPCsQ/edit?usp=sharing)
+This pipline is designed to ingest data from Google Sheet and load it into BigQuery. The dashboard is built using Looker Studio to track metrics such as absence rate and cancellation rate.
+*Data Pipeline Architecture*
+<img src="images/p5i1.png?raw=true">
+*Dashboard*
+dashboard can be accessed here: [looker dashboard](https://lookerstudio.google.com/reporting/d0b37f34-bc7e-43b6-bc4a-68bfd9ec55f8)
+<img src="images/p5i2.png?raw=true">
+
+
 ### Project 4. What Channels Are More Effective in Marketing Promotion: TV, Radio, or Social Media? (Excel)
 analysis report can be found here: [pdf](/pdf/Marketing_Promotion_Analysis.pdf)
 
