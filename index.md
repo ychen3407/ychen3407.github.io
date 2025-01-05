@@ -1,7 +1,21 @@
 ## Portfolio
 ### Selected Projects in Data Science and Machine Learning
-### In Progress (Update: 12/18/2024)
+### In Progress (Update: 01/05/2025)
 ---
+### Project 6. Data Pipeline for Bike Sharing in Philadelphia
+The purpose of this project is to understand the usage pattern of shared bikes in Philadelphia. Details can be found the this [github repo]().
+
+*Data Pipeline Architecture*
+<img src="images/p6i1.png?raw=true">
+
+The following tools are used:
+- Airflow: workflow orchestration
+- Bigquery: data warehouse
+- Cloud storage: data lake
+- Kafka + Pyspark: real-time data ingestion
+- terraform: infrastructure management
+- Looker: visualization
+
 ### Project 5. Data Pipeline for Tutoring Session Attendance
 The pipeline specification document can be found here: [docs](https://docs.google.com/document/d/1E1zr9PGkFLiywgxOcovQ3zZa5TZJaMJaJDpObtWPCsQ/edit?usp=sharing)
 This pipeline is designed to ingest data from Google Sheet and load it into BigQuery. The dashboard is built using Looker Studio to track metrics such as absence rate and cancellation rate.
