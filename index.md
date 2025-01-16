@@ -1,6 +1,6 @@
 ## Portfolio
 ### Selected Projects in Data Science and Machine Learning
-### In Progress (Update: 01/05/2025)
+### In Progress (Update: 01/15/2025)
 ---
 ### Project 6. Data Pipeline for Bike Sharing in Philadelphia
 The purpose of this project is to understand the usage pattern of shared bikes in Philadelphia. Details can be found the this [github repo](https://github.com/ychen3407/Philly-Bike-Sharing-Patterns.git).
@@ -20,11 +20,11 @@ The following tools are used:
 
 real-time monitoring dashboard
 
-<img src="images/p6i2" width="500">
+<img src="images/p6i2.png" width="700">
 
 historical data dashboard
 
-<img src="images/p6i3" width="500">
+<img src="images/p6i3.png" width="700">
 
 ### Project 5. Data Pipeline for Tutoring Session Attendance
 The pipeline specification document can be found here: [docs](https://docs.google.com/document/d/1E1zr9PGkFLiywgxOcovQ3zZa5TZJaMJaJDpObtWPCsQ/edit?usp=sharing)
@@ -32,13 +32,13 @@ This pipeline is designed to ingest data from Google Sheet and load it into BigQ
 
 *Data Pipeline Architecture*
 
-<img src="images/p5i1.png?raw=true" width="600">
+<img src="images/p5i1.png?raw=true" width="700">
 
 *Dashboard*
 
 dashboard can be accessed here: [looker dashboard](https://lookerstudio.google.com/reporting/d0b37f34-bc7e-43b6-bc4a-68bfd9ec55f8)
 
-<img src="images/p5i2.png?raw=true" width="600">
+<img src="images/p5i2.png?raw=true" width="700">
 
 
 ### Project 4. What Channels Are More Effective in Marketing Promotion: TV, Radio, or Social Media? (Excel)
