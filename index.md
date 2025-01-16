@@ -3,10 +3,10 @@
 ### In Progress (Update: 01/05/2025)
 ---
 ### Project 6. Data Pipeline for Bike Sharing in Philadelphia
-The purpose of this project is to understand the usage pattern of shared bikes in Philadelphia. Details can be found the this [github repo]().
+The purpose of this project is to understand the usage pattern of shared bikes in Philadelphia. Details can be found the this [github repo](https://github.com/ychen3407/Philly-Bike-Sharing-Patterns.git).
 
 *Data Pipeline Architecture*
-<img src="images/p6i1.png?raw=true">
+<img src="images/p6i1.png?raw=true" width="600">
 
 The following tools are used:
 - Airflow: workflow orchestration
@@ -16,25 +16,37 @@ The following tools are used:
 - terraform: infrastructure management
 - Looker: visualization
 
+*Dashboards*
+
+real-time monitoring dashboard
+
+<img src="images/p6i2" width="500">
+
+historical data dashboard
+
+<img src="images/p6i3" width="500">
+
 ### Project 5. Data Pipeline for Tutoring Session Attendance
 The pipeline specification document can be found here: [docs](https://docs.google.com/document/d/1E1zr9PGkFLiywgxOcovQ3zZa5TZJaMJaJDpObtWPCsQ/edit?usp=sharing)
 This pipeline is designed to ingest data from Google Sheet and load it into BigQuery. The dashboard is built using Looker Studio to track metrics such as absence rate and cancellation rate.
 
 *Data Pipeline Architecture*
-<img src="images/p5i1.png?raw=true">
+
+<img src="images/p5i1.png?raw=true" width="600">
 
 *Dashboard*
 
 dashboard can be accessed here: [looker dashboard](https://lookerstudio.google.com/reporting/d0b37f34-bc7e-43b6-bc4a-68bfd9ec55f8)
-<img src="images/p5i2.png?raw=true">
+
+<img src="images/p5i2.png?raw=true" width="600">
 
 
 ### Project 4. What Channels Are More Effective in Marketing Promotion: TV, Radio, or Social Media? (Excel)
 analysis report can be found here: [pdf](/pdf/Marketing_Promotion_Analysis.pdf)
 
 This short analysis aims to assess the effectiveness of different marketing channels. 
-<img src="images/p4i1.png?raw=true">
-<img src="images/p4i2.png?raw=true">
+<img src="images/p4i1.png?raw=true" width="800">
+<img src="images/p4i2.png?raw=true" width="800">
 
 ### Project 3. Enhancing Customer Satisfaction: An Analysis of Olist's Package Delivery (SQL)
 analysis report can be found here: [pdf](/pdf/e-commerce.pdf)
