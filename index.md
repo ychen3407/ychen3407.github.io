@@ -1,7 +1,16 @@
 ## Portfolio
-### Selected Projects in Data Science and Machine Learning
+### Selected Projects in Data Science and Data Engineering
 ### In Progress (Update: 01/15/2025)
 ---
+### Project 7. Data Pipeline for Reddit Posts Analysis
+This project is first created to understand people's opinions on recent TikTok ban. It was later expended to understand the overall trend of TikTok subreddit. Python scripts were created to scrape reddit posts information, details can be found in this [repo](). Scraped data was then visualized in a streamlit app here (working on integrating for a real-pipeline)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://glowing-space-xylophone-x4vj796xwqrf65gp-8501.app.github.dev/)
+
+<img src="images/p7i1.png?raw=true" width="600">
+<img src="images/p7i2.png?raw=true" width="600">
+
+
 ### Project 6. Data Pipeline for Bike Sharing in Philadelphia
 The purpose of this project is to understand the usage pattern of shared bikes in Philadelphia. Details can be found the this [github repo](https://github.com/ychen3407/Philly-Bike-Sharing-Patterns.git).
 
